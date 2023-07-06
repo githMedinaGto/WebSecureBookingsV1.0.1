@@ -1,0 +1,50 @@
+﻿html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+.body-sistema {
+    margin-top: 50px;
+}
+
+nav {
+    background-color: #a9a9a9;
+}
+
+footer {
+    background-color: #a9a9a9;
+    /*padding: 0 0 30px 0;*/
+    font-size: 14px;
+}
+
+.footer-derechos {
+    background-color: #9c9c9c;
+}
+
+.btn-used {
+    background-color: #ff3b3f;
+        color: #fff;
+}
+
+.btn-used:hover {
+    background-color: #c9302c;
+}
+
+.modal-header {
+    background-color: #caebf2
+}
+
+button.close[type="button"] {
+    border-radius: 30%;
+    border: none;
+}
+
+button.close[type="button"]:hover {
+  background-color: #87ccdb;
+  /* Otros estilos adicionales */
+}
+
+.card {
+    background-color: #caebf2
+}
